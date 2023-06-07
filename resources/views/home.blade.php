@@ -11,7 +11,7 @@
 @section('content')
     <table class="table table-hover">
         <thead>
-            <th>Tên</th>
+            <th>Tênsss</th>
             <th>Tuổi</th>
             <th>Lớp</th>
             <th>MSV</th>
